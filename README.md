@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stoian Vlad</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <h2> Experience</h2>
-3 months intern at Fundmore.ai
+3 months internship at Fundmore.ai 
+
+
 As a QA Engineer Intern at Fundmore.ai, I actively contributed to the testing and release phases of our software products, gaining new skills and applying them as an integrated member of the development team. Some of my main responsibilities and activities included:
 
 manually validating and verifying new features
