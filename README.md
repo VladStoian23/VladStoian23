@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stoian Vlad</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-
+<h2> Experience</h2>
 - 📫 How to reach me **vladstoian23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
